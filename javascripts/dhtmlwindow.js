@@ -8,9 +8,9 @@
 // -------------------------------------------------------------------
 
 var dhtmlwindow={
-imagefiles:['http://i120.photobucket.com/albums/o178/Beepm/Sidebar%20Bits/min.gif', 'http://i120.photobucket.com/albums/o178/Beepm/Sidebar%20Bits/close.gif', 'http://i120.photobucket.com/albums/o178/Beepm/Sidebar%20Bits/restore.gif', 'http://i120.photobucket.com/albums/o178/Beepm/Sidebar%20Bits/resize.gif'], //Path to 4 images used by script, in that order
+imagefiles:['http://storage.proboards.com/6397916/images/FGowscbnGfRNaLGWOwUe.gif', 'http://storage.proboards.com/6397916/images/JxzAPOtjwaomziCvOoKa.gif', 'http://storage.proboards.com/6397916/images/QTULpDVmpnMaEkPIjGBT.gif', 'http://storage.proboards.com/6397916/images/rrCTjwPxQoqxbICIYyGe.gif'], //Path to 4 images used by script, in that order
 ajaxbustcache: true, //Bust caching when fetching a file via Ajax?
-ajaxloadinghtml: '<img src="http://i120.photobucket.com/albums/o178/Beepm/Sidebar%20Bits/loading2.gif" /><br /><b>Loading Page. Please wait...</b>', //HTML to show while window fetches Ajax Content?
+ajaxloadinghtml: '<img src="http://storage.proboards.com/6397916/images/qMVKEqZHWkqfpOJFRtbf.gif" /><br /><b>Loading Page. Please wait...</b>', //HTML to show while window fetches Ajax Content?
 
 minimizeorder: 0,
 zIndexvalue:100,
